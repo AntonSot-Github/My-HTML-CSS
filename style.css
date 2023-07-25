@@ -1,0 +1,20 @@
+.sq1{
+    background-color: red;
+    width: 600px;
+    height: 200px;
+}/* параметры верхнего прямоугольника */
+.insq1{
+    background-color: darkgray;
+    width: 100px;
+    height: 100px;
+}/* параметры верхнего внутреннего квадрата */
+.sq2{
+    background-color: blue;
+    width: 300px;
+    height: 400px;
+}/* параметры нижнего прямоугольника */
+.insq2{
+    background-color: darkgray;
+    width: 100px;
+    height: 250px;
+}/* параметры нижнего внутреннего прямоугольника */
